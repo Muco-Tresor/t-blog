@@ -1,0 +1,17 @@
+/*=========== COLORS ================*/
+@import '__colors.scss';
+
+
+/*=========== FONTS ================*/
+@import '__fonts.scss';
+
+
+/*=========== RESET CSS ================*/
+@import '__reset.scss';
+
+
+body
+{
+	font-family: $main_font;
+
+}

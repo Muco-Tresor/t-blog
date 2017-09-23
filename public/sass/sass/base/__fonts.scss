@@ -1,0 +1,27 @@
+
+@font-face
+{
+  font-family: 'dayrom';
+  src: url("../sass/fonts/dayrom.eot");
+  src: url("../sass/fonts/dayrom.eot") format("embedded-opentype"),
+  	   url("../sass/fonts/dayrom.svg") format("svg"),
+       url("../sass/fonts/dayrom.ttf") format("true-type-font"),
+       url("../sass/fonts/dayrom.woff") format("woff");
+
+  font-weight: normal;
+}
+
+@font-face
+{
+  font-family: 'stroke';
+  src: url("sass/fonts/Pe-icon-7-stroke.eot");
+  src: url("sass/fonts/Pe-icon-7-stroke.eot") format("embedded-opentype"),
+  	   url("sass/fonts/Pe-icon-7-stroke.svg") format("svg"),
+       url("sass/fonts/Pe-icon-7-stroke.ttf") format("true-type-font"),
+       url("sass/fonts/Pe-icon-7-stroke.woff") format("woff");
+
+  font-weight: normal;
+}
+
+
+$main_font: 'dayrom';
